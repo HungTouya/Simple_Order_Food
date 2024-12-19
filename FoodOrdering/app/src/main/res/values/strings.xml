@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Food Ordering</string>
+    <string name="pizza">Pizza</string>
+    <string name="cake">Cake</string>
+    <string name="bread">Bread</string>
+    <string name="cookie">Cookie</string>
+    <string name="burger">Burger</string>
+    <string name="candy">Candy</string>
+    <string name="categories">Categories</string>
+</resources>
